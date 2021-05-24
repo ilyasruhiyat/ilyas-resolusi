@@ -1,4 +1,5 @@
 Rencana baru
 Belajar node js
 Belajar react js
-Belajar swift c
+Belajar css
+Belajar javascript
