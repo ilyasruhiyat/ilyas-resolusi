@@ -1,2 +1,2 @@
 # ilyas-resolusi
-Reposotory untuk menyimpan rencana ke depannya
+Repository untuk menyimpan rencana ke depannya
