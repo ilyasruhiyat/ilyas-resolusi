@@ -4,3 +4,4 @@ Belajar react js
 Belajar css
 Belajar javascript
 Belajar gambar teknik
+Belajar solid work
