@@ -4,5 +4,6 @@ Belajar react js
 Belajar css
 Belajar javascript
 Belajar gambar teknik
-Belajar SPSS
-Belajar microsoft project
+Belajar solid work
+Belajar autocad
+
